@@ -1,0 +1,43 @@
+﻿                                      Assigment 2 
+1) To creat a new branch we need to run :- git branch <new_branch_name></new_branch_name>
+
+2)the difference between nodejs and javascript are:-
+
+javascript:- 1) Javascript is a programming language that is used for writing scripts on the website.
+ 
+             2)Javascript can only be run in the browsers.
+
+
+             3) It is basically used on the client-side.
+
+             4) Javascript is capable enough to add HTML and play with the DOM
+
+             5) Javascript can run in any browser engine as like JS core in safari and Spidermonkey in Firefox. 
+             
+             6)	Javascript is used in frontend development.
+
+              7)Some of the javascript frameworks are RamdaJS, TypedJS, etc. 
+
+              8)It is the upgraded version of ECMA script that uses Chrome’s V8 engine written in C++. 
+
+
+Node.js:-
+           1)We can run Javascript outside the browser with the help of NodeJS.
+          
+           2)It is mostly used on the server-side.
+
+           3)Nodejs does not have capability to add HTML tags.
+
+           4)V8 is the Javascript engine inside of node.js that parses and runs Javascript. 
+
+           5)Nodejs is used in server-side development.
+
+           6)Some of the Nodejs modules are Lodash, express etc. These modules are to be imported from npm.
+
+           7) Nodejs is written in C, C++ and Javascript.
+3)
+
+
+
+
+
